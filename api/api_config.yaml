@@ -1,0 +1,5 @@
+tmp_dir: "./tmp"
+python_path: "D:/project/ECCV2022-RIFE/venv/Scripts/python.exe"
+rife_script: "D:/project/ECCV2022-RIFE/inference_video.py"
+default_port: 8090
+default_target_fps: 60
